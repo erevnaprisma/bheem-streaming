@@ -1,0 +1,16 @@
+node_modules/
+robots.txt
+.gradle
+.idea
+scratch/
+node_modules/
+mostcommand.txt
+uploads/
+server_ori.js
+.DS_Store
+projectFilesBackup/
+*.log
+test/*.json
+public/*.xml
+package-lock.json
+npm-debug.log.*

@@ -1,0 +1,7 @@
+{
+    "privateKey": "PRIVATE_KEY",
+    "privateKeyMerchant": "PRIVATE_KEY_MERCHANT",
+    "privateKeyInstitution": "PRIVATE_KEY_INSTITUTION",
+    "hmac": "HMAC",
+    "serialNumber": "SERIAL_NUMBER"
+}
